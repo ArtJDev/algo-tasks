@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/algo-tasks.iml" filepath="$PROJECT_DIR$/algo-tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../generic-search/generic-search.iml" filepath="$PROJECT_DIR$/../generic-search/generic-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../search-dna/search-dna.iml" filepath="$PROJECT_DIR$/../search-dna/search-dna.iml" />
       <module fileurl="file://$PROJECT_DIR$/tower/tower.iml" filepath="$PROJECT_DIR$/tower/tower.iml" />
     </modules>
   </component>
